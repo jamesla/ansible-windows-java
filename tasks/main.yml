@@ -2,7 +2,7 @@
 
 - name: Install Java
   win_chocolatey:
-    name: jdk8
+    name: "{{ jdk_package }}"
     state: present
     version: "{{ java_major_version }}.{{ java_minor_version }}"
 
