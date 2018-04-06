@@ -1,0 +1,21 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: jamesla
+  description: Installs and configures Java on Windows
+  company: "jamesla"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.0
+  platforms:
+  - name: Windows
+    versions:
+    - all
+    - 2008R2
+    - 2012R2
+    - 2016
+  galaxy_tags:
+    - Java
+    - JDK
+    - JRE
+    - Windows
