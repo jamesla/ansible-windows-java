@@ -15,7 +15,7 @@ galaxy_info:
     - 2012R2
     - 2016
   galaxy_tags:
-    - Java
-    - JDK
-    - JRE
-    - Windows
+    - java
+    - jdk
+    - jre
+    - windows
